@@ -51,6 +51,10 @@ Solder the SK6812 LEDs with the missing corners aligned with the corners printed
 ![rgb](img/dumbpad_v3_1_rgb_mounting.jpg)
 
 
+## Case
+
+One can use the general case from https://github.com/imchipwood/dumbpad/tree/master/case. An alternative case is available here: https://www.printables.com/model/200528-dumbpad-hotswap-case.
+
 ## Acknowledgements
 
 Some of the footprints are extracted from the awesome [Corne Keyboard](https://github.com/foostan/crkbd) by [Kosuke Adachi](https://github.com/foostan).
